@@ -1,1 +1,1 @@
-# CRISPS-Cell-Centric-Recursive-Image-Similarity-Projection-Searching-Project-Summary
+# CRISPS-Cell-Centric-Recursive-Image-Similarity-Projection-Searching
